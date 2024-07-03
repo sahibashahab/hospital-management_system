@@ -1,0 +1,9 @@
+C:\ok\DAL\bin\Debug\DAL.exe.config
+C:\ok\DAL\bin\Debug\DAL.exe
+C:\ok\DAL\bin\Debug\DAL.pdb
+C:\ok\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\ok\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\ok\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\ok\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\ok\DAL\obj\Debug\DAL.exe
+C:\ok\DAL\obj\Debug\DAL.pdb

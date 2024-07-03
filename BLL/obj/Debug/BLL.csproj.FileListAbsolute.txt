@@ -1,0 +1,9 @@
+C:\ok\BLL\bin\Debug\BLL.exe.config
+C:\ok\BLL\bin\Debug\BLL.exe
+C:\ok\BLL\bin\Debug\BLL.pdb
+C:\ok\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\ok\BLL\obj\Debug\BLL.Properties.Resources.resources
+C:\ok\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+C:\ok\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\ok\BLL\obj\Debug\BLL.exe
+C:\ok\BLL\obj\Debug\BLL.pdb
